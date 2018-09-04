@@ -1,0 +1,29 @@
+{
+	"NAME": "StructuralTubing /L",
+	"URL": "https://raw.githubusercontent.com/net-lisias-ksp/StructuralTubing/master/New_Horizons.version",
+	"DOWNLOAD": "https://github.com/net-lisias-ksp/StructuralTubing/releases",
+	"GITHUB": {
+		"USERNAME": "net-lisias-ksp",
+		"REPOSITORY": "StructuralTubing"
+		},
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":6,
+		"BUILD":0
+	},
+	"KSP_VERSION": {
+		"MAJOR": 1,
+		"MINOR": 4,
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 4,
+		"PATCH": 1
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 4,
+		"PATCH": 99
+	}
+}
