@@ -1,1 +1,6 @@
 .vs
+GameData/**/LICENSE
+GameData/**/README.md
+GameData/**/CHANGE_LOG.md
+GameData/**/*.version
+
