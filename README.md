@@ -6,9 +6,18 @@ Originally from DK SALVAGE, now under Lisias' caring.
 ## In a Hurry
 
 * [Releases](https://github.com/net-lisias-ksp/StructuralTubing/tree/Archive)
-* [Source](https://github.com/net-lisias-ksp/StructuralTubing)
 * [Latest Release](https://github.com/net-lisias-ksp/StructuralTubing/releases)
-* [Change Log](./CHANGE_LOG.md)
+    + [Binaries](https://github.com/net-lisias-ksp/StructuralTubing/tree/Archive)
+* [Source](https://github.com/net-lisias-ksp/StructuralTubing)
+* [Issue Tracker](https://github.com/net-lisias-ksp/StructuralTubing/issues)
+* Documentation	
+	+ [Homepage](http://ksp.lisias.net/add-ons/StructuralTubing) on L Aerospace KSP Division
+	+ [Project's README](https://github.com/net-lisias-ksp/StructuralTubing/blob/master/README.md)
+	+ [Change Log](./CHANGE_LOG.md)
+	+ [TODO](./TODO.md) list
+* Official Distribution Sites:
+	+ [Homepage](http://ksp.lisias.net/add-ons/StructuralTubing) on L Aerospace
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/StructuralTubing) on GitHub.
 
 
 ## Description
